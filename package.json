@@ -1,0 +1,19 @@
+{
+  "name": "scraper-hamed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.8",
+    "nodemon": "^2.0.6",
+    "puppeteer": "^5.5.0",
+    "yarn": "^1.22.10"
+  }
+}
